@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\matuhovat\CLionProjects\Dress-up -B C:\Users\matuhovat\CLionProjects\Dress-up\cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\matuhovat\Dress-Up-Game\Dress-up -B C:\Users\matuhovat\Dress-Up-Game\Dress-up\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -35,4 +35,4 @@
 --   GRAPHICS=GRAPHICS_API_OPENGL_33
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/matuhovat/CLionProjects/Dress-up/cmake-build-debug
+-- Build files have been written to: C:/Users/matuhovat/Dress-Up-Game/Dress-up/cmake-build-debug

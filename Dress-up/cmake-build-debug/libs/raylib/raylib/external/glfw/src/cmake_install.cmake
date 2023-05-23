@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/matuhovat/CLionProjects/Dress-up/libs/raylib-4.1/src/external/glfw/src
+# Install script for directory: C:/Users/matuhovat/Dress-Up-Game/Dress-up/libs/raylib-4.1/src/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
